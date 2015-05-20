@@ -1,0 +1,35 @@
+.down{
+    position: absolute;
+    bottom: 100px;
+    left: 0px;
+    width:100%;
+}
+
+#demo
+{
+    padding: 50px!important;
+}
+input[type=text] , input[type=password]{
+    padding:15px!important;
+}
+
+textarea {
+    width: 400px;
+}
+
+.padding_bottom{
+    padding-top: 100px!important;
+    padding-bottom: 400px!important;
+}
+
+.padding_down
+{
+    padding-top: 70px!important;
+}
+.padding_left
+{
+    padding-left: 70px!important;
+}
+
+
+

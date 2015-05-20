@@ -1,0 +1,16 @@
+USA
+Washington Island Airport
+45.38619995
+86.92449951
+England
+Cambridge Airport
+52.20500183
+0.174999997
+Finland
+Norwich International Airport
+52.67580032
+1.282780051
+Bangladesh
+Shahjalal International Airport
+23.843070900000000000
+90.405449800000040000

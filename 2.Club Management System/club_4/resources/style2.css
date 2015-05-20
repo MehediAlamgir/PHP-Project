@@ -1,0 +1,44 @@
+body{
+	font-family: arial, verdana;
+	font-size: .9em;
+}
+.myfont{
+	font-family: arial, verdana;
+	font-size: 1em;
+}
+div.centerAlign{
+	width: 1006px;
+	margin-left: auto;
+	margin-right: auto;
+}
+div.right
+{
+margin-left: auto;
+width:350px;
+background-color:#d1f1ff;
+}
+.mylabel{
+	font-family: comic sans ms;
+	font-size: 1em;
+	font-weight: bold;
+	color:#49585f;
+}
+.myButton{
+	background-color: #1184b7;
+	color:#FFFFFF;
+	font-family: comic sans ms;
+	font-weight: bold;
+}
+
+a.myLink:link {color:1130b7;}
+a.myLink:visited {color:#1130b7;}
+a.myLink:active {color:blue;}
+a.myLink:hover {text-decoration: underline; color: #3051e1;}
+
+#myLink{
+	font-weight: bold;
+}
+.tbl-border{
+	border-color: #0082bc;
+	border-style:dotted solid;
+}

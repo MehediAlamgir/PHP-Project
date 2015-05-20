@@ -1,0 +1,15 @@
+Washington Island Airport
+45.38619995
+-86.92449951
+Cambridge Airport
+52.20500183
+0.174999997
+Norwich International Airport
+52.67580032
+1.282780051
+Shahjalal International Airport
+23.843070900000000000
+90.405449800000040000
+Dubai International Airport
+25.2527999878
+55.3643989563

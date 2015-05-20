@@ -1,0 +1,58 @@
+#header{
+	background-image:url("header.jpg");
+	width: 1006px;
+	height: 208px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#menualign{
+	width: 1006px;
+	height: 25px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #0082bc;
+}
+
+.menu{
+	list-style-type:none;
+	margin: 0;
+	padding: 0;
+}
+#menulink-a{
+	display: block;
+	width: 70px;
+	height: 30px;
+	background-color: #0082bc;
+}
+.menulink-li{
+	display: inline;
+	float: left;
+}
+a.topmenu:link,a.topmenu:visited
+{
+display:block;
+width:120px;
+font-weight:bold;
+color:#FFFFFF;
+background-color:#0082bc;
+text-align:center;
+padding:0px;
+text-decoration:none;
+text-transform:uppercase;
+display: block;
+width: 110px;
+height: 25px;
+background-color: #0082bc;
+}
+a.topmenu:hover,a.topmenu:active
+{
+background-color:#17adf0;
+}
+
+#centerAlign{
+	width: 1006px;
+	height: 208px;
+	margin-left:auto;
+	margin-right:auto;
+}

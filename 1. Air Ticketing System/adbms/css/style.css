@@ -1,0 +1,6 @@
+/* CSS Document */
+.bodyw { padding-top: 50px;}
+.item { height:300px; overflow:hidden;}
+li,ul,ol {list-style:none;}
+input {height:30px !important;}
+
