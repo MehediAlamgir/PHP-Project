@@ -16,6 +16,7 @@
 -- Table structure for table `airport`
 -- 
 
+
 CREATE TABLE `airport` (
   `country` varchar(100) collate latin1_general_ci NOT NULL,
   `airportname` varchar(500) collate latin1_general_ci NOT NULL,
